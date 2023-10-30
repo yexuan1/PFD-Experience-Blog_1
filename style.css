@@ -6,7 +6,7 @@ margin-right: auto;
 margin-top: 3%;}
 
 .navbar.navbar-expand-lg.bg-body-tertiary{
-    color: darkgray;
+    color: blue;
 }
 
 .week2_img1{
@@ -14,5 +14,9 @@ margin-top: 3%;}
 }
 
 .week2_img2{
+    width: 70%;
+}
+
+.week2_img3{
     width: 70%;
 }
