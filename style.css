@@ -1,3 +1,19 @@
+
+.intro {
+    position: relative;
+}
+
+.intro .head {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.head.text-center{
+    color: white;
+}
+
 .name_header{text-align: center;
 margin-top: 3%;}
 
